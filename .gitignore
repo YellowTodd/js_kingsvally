@@ -1,0 +1,6 @@
+build/*
+!build/kvalley.rom
+!build/kvalley.lst
+!build/kvalley.sym
+!build/tooling/
+!build/tooling/**
