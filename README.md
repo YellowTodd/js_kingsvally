@@ -1,3 +1,5 @@
+Forked from GuillianSeed/Kings-Valley
+
 # King's Valley (RC727, MSX)
 
 This repository contains the fully annotated disassembly of the original King's Valley game, released by Konami for [MSX](https://en.wikipedia.org/wiki/MSX) in 1985 with code RC727. I hope you will find the code comments useful to understand how the game works.
