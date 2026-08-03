@@ -1,4 +1,3 @@
-# King's Valley (RC727, MSX)
+# King's Valley javascript port
 
 Forked from GuillianSeed/Kings-Valley
-javascript port
